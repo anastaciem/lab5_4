@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  unit5_4.cpp
+D:\Університет\АП\Лабораторні\Тема 5(2)\vs\unit5_4\unit5_4.cpp(16,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Університет\АП\Лабораторні\Тема 5(2)\vs\lab5_4\Debug\unit5_4.lib and object D:\Університет\АП\Лабораторні\Тема 5(2)\vs\lab5_4\Debug\unit5_4.exp
+  unit5_4.vcxproj -> D:\Університет\АП\Лабораторні\Тема 5(2)\vs\lab5_4\Debug\unit5_4.dll
